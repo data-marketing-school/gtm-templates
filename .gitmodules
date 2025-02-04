@@ -1,3 +1,21 @@
 [submodule "matomo-server-tag"]
 	path = matomo-server-tag
 	url = https://github.com/data-marketing-school/matomo-server-tag.git
+[submodule "matomo-ecommerce-tag"]
+	path = matomo-ecommerce-tag
+	url = https://github.com/data-marketing-school/matomo-ecommerce-tag.git
+[submodule "snap-pixel"]
+	path = snap-pixel
+	url = https://github.com/data-marketing-school/snap-pixel.git
+[submodule "matomo-configuration-tag"]
+	path = matomo-configuration-tag
+	url = https://github.com/data-marketing-school/matomo-configuration-tag.git
+[submodule "matomo-client"]
+	path = matomo-client
+	url = https://github.com/data-marketing-school/matomo-client.git
+[submodule "matomo-actions-tag"]
+	path = matomo-actions-tag
+	url = https://github.com/data-marketing-school/matomo-actions-tag.git
+[submodule "matomo-content-tracking-tag"]
+	path = matomo-content-tracking-tag
+	url = https://github.com/data-marketing-school/matomo-content-tracking-tag.git
