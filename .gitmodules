@@ -1,0 +1,3 @@
+[submodule "matomo-server-tag"]
+    path = matomo-server-tag
+    url = https://github.com/data-marketing-school/matomo-server-tag
