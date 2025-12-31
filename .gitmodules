@@ -19,3 +19,6 @@
 [submodule "matomo-content-tracking-tag"]
 	path = matomo-content-tracking-tag
 	url = https://github.com/data-marketing-school/matomo-content-tracking-tag.git
+[submodule "calendly-invitee-user-data-variable"]
+	path = calendly-invitee-user-data-variable
+	url = https://github.com/data-marketing-school/calendly-invitee-user-data-variable.git
