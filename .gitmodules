@@ -1,0 +1,30 @@
+[submodule "parse-all-client"]
+	path = parse-all-client
+	url = https://github.com/data-marketing-school/parse-all-client.git
+[submodule "shopify-customer-privacy-api-tag"]
+	path = shopify-customer-privacy-api-tag
+	url = https://github.com/data-marketing-school/shopify-customer-privacy-api-tag
+[submodule "calendly-invitee-user-data-variable"]
+	path = calendly-invitee-user-data-variable
+	url = https://github.com/data-marketing-school/calendly-invitee-user-data-variable
+[submodule "matomo-server-tag"]
+	path = matomo-server-tag
+	url = https://github.com/data-marketing-school/matomo-server-tag
+[submodule "matomo-configuration-tag"]
+	path = matomo-configuration-tag
+	url = https://github.com/data-marketing-school/matomo-configuration-tag
+[submodule "matomo-client"]
+	path = matomo-client
+	url = https://github.com/data-marketing-school/matomo-client
+[submodule "matomo-ecommerce-tag"]
+	path = matomo-ecommerce-tag
+	url = https://github.com/data-marketing-school/matomo-ecommerce-tag
+[submodule "matomo-actions-tag"]
+	path = matomo-actions-tag
+	url = https://github.com/data-marketing-school/matomo-actions-tag
+[submodule "matomo-content-tracking-tag"]
+	path = matomo-content-tracking-tag
+	url = https://github.com/data-marketing-school/matomo-content-tracking-tag
+[submodule "snap-pixel"]
+	path = snap-pixel
+	url = https://github.com/data-marketing-school/snap-pixel
