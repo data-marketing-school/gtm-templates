@@ -34,3 +34,6 @@
 [submodule "pandectes-consent-state-variable"]
 	path = pandectes-consent-state-variable
 	url = https://github.com/data-marketing-school/pandectes-consent-state-variable
+[submodule "cookieyes-consent-state-variable"]
+	path = cookieyes-consent-state-variable
+	url = https://github.com/data-marketing-school/cookieyes-consent-state-variable
