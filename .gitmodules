@@ -28,3 +28,6 @@
 [submodule "snap-pixel"]
 	path = snap-pixel
 	url = https://github.com/data-marketing-school/snap-pixel
+[submodule "openai-ads-measurement-pixel"]
+	path = openai-ads-measurement-pixel
+	url = https://github.com/data-marketing-school/openai-ads-measurement-pixel
