@@ -31,3 +31,6 @@
 [submodule "openai-ads-measurement-pixel"]
 	path = openai-ads-measurement-pixel
 	url = https://github.com/data-marketing-school/openai-ads-measurement-pixel
+[submodule "pandectes-consent-state-variable"]
+	path = pandectes-consent-state-variable
+	url = https://github.com/data-marketing-school/pandectes-consent-state-variable
